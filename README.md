@@ -1,9 +1,12 @@
 # csvg
 Classy Savage Alpha Coin
 
+
 Description @ Classy Savage ($CSVG) is a cultural currency powering fashion influence and community across the Classy Savage brand network.
 
+
 Ethos @ CLASSY SAVAGE @ Timeless by design. Fierce by nature. Built to disrupt. Made to mint α legacy.
+
 
 
 Website @ https @//classysavageart.com
