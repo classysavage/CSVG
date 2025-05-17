@@ -1,5 +1,5 @@
-# csvg
-Classy Savage Alpha Coin
+# CSVG
+Classy Savage
 
 
 Description @ Classy Savage ($CSVG) is a cultural currency powering fashion influence and community across the Classy Savage brand network.
