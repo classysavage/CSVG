@@ -1,7 +1,7 @@
 {
   "name": "Classy Savage",
   "symbol": "CSVG",
-  "description": "Classy Savage ($CSVG) is a cultural currency powering the Classy Savage brand network.",
+  "description": "Classy Savage ($CSVG) is a cultural currency powering fashion, influence, and community across the Classy Savage brand network.",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/classysavage/CSVG/main/logo.png",
   "external_url": "https://classysavageart.com",
@@ -36,6 +36,11 @@
       }
     ],
     "category": "image",
-    "creators": []
+    "creators": [
+      {
+        "address": "GffPSX47XiK61nxRe7QrMDAuozHWnEQxB9K7yp8SX6XK",
+        "share": 100
+      }
+    ]
   }
 }
