@@ -1,0 +1,41 @@
+{
+  "name": "Classy Savage",
+  "symbol": "CSVG",
+  "description": "Classy Savage ($CSVG) is a cultural currency powering the Classy Savage brand network.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/classysavage/CSVG/main/logo.png",
+  "external_url": "https://classysavageart.com",
+  "attributes": [
+    { "trait_type": "documentation", "value": "https://classysavageart.com/coin" },
+    { "trait_type": "whitepaper", "value": "https://classysavageart.com/coin/CSVG-WhitePaper.pdf" },
+    { "trait_type": "github", "value": "https://github.com/classysavage/csvg" },
+    { "trait_type": "x", "value": "https://x.com/classysavageart" },
+    { "trait_type": "discord", "value": "https://discord.gg/WydeytXnea" },
+    { "trait_type": "telegram", "value": "https://t.me/classysavageart" },
+    { "trait_type": "instagram", "value": "https://instagram.com/classysavage.art" },
+    { "trait_type": "tiktok", "value": "https://tiktok.com/@classysavageart" },
+    { "trait_type": "threads", "value": "https://threads.net/@classysavage.art" },
+    { "trait_type": "linkedin", "value": "https://linkedin.com/company/classysavage" },
+    { "trait_type": "pinterest", "value": "https://pinterest.com/classysavageart" },
+    { "trait_type": "opensea", "value": "https://opensea.io/collection/classysavage" },
+    { "trait_type": "rarible", "value": "https://rarible.com/classysavage" },
+    { "trait_type": "magiceden", "value": "https://magiceden.us/classysavageart" },
+    { "trait_type": "creator", "value": "https://russellrope.com" },
+    { "trait_type": "legendary", "value": "https://opensea.io/russellrope" },
+    { "trait_type": "ethos", "value": "CLASSY SAVAGE: Timeless by design. Fierce by nature. Built to disrupt. Made to mint α legacy." }
+  ],
+  "collection": {
+    "name": "Classy Savage",
+    "family": "Classy Savage"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/classysavage/CSVG/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
